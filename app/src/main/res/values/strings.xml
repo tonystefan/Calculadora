@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="empilhar">Empilhar</string>
+    <string name="desempilhar">Desempilhar</string>
+    <string name="n_mero">Número:</string>
+    <string name="soma">+</string>
+    <string name="diferenca">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="stack">Stack:</string>
+    <string name="staack">result</string>
+</resources>
